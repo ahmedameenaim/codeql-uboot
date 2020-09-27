@@ -1,4 +1,3 @@
-// memcpy
 import cpp
 
 from Function f
